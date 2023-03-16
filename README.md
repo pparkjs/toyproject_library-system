@@ -3,7 +3,7 @@ Oracle SQL과 Java를 학습하고 JDBC를 배운 후 개념을 확립하기 위
 JDBC를 배운뒤 java와 oracle을 연계하여 콘솔을 통해 실행되는 도서관시스템을 제작하였습니다. 
 <br><br>
 # Design Pattern
-**MVC 패턴**을 학습 한 후 MVC 패턴에 어긋나지 않도록 주의 하며 효율적으로 코드를 작성 하였습니다.
+**MVC 패턴**을 학습 한 후 MVC 패턴에 어긋나지 않도록 주의하며 효율적으로 코드를 작성 하였습니다.
 <br><br>
 # MVC 작성 규칙
 1. JDBC를 사용하는 CRUD 작업은 해당 DAO에 작성 <br><br>
