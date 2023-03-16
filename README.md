@@ -1,5 +1,5 @@
 # 소개
-Oracle SQL과 Java를 학습하고 JDBC를 배운 후 개념을 확립하기 위해서 <br>
+Oracle SQL과 Java를 학습하고 개념을 확립하기 위해서 <br>
 JDBC를 배운뒤 java와 oracle을 연계하여 콘솔을 통해 실행되는 도서관시스템을 제작하였습니다. 
 <br><br>
 # Design Pattern
